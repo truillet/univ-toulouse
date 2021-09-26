@@ -2,7 +2,8 @@
 
 ## Introduction à l'interaction homme-machine
 * [support de cours](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/survol_ihm_3_8.pdf)
-* [conception de systèmes interactifs](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/CSI.pdf) et [Travaux Pratiques CSI](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/CSI_v1.9.pdf)
+* Handicap : quelques éléments
+* [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf) et [Travaux Pratiques CSI](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/CSI_v1.9.pdf)
 * [bureau d'études/TP](https://github.com/truillet/uftmip/blob/master/m2ice/TP/BE_prototypage_2021b_UT2J.pdf)
 
 ### Quelques liens "à lire"
