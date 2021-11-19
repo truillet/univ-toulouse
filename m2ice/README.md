@@ -6,13 +6,13 @@
   * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf)
 
 ### Séance 2
-  * [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf) et [Travaux Pratiques CSI]  (https://github.com/truillet/uftmip/blob/master/m2ice/Cours/CSI_v1.9.pdf)
+  * [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf) et [Travaux Pratiques CSI](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/CSI_v1.9.pdf)
   * [bureau d'études/TP](https://github.com/truillet/uftmip/blob/master/m2ice/TP/BE_prototypage_2021b_UT2J.pdf)
 
 ### Séance 3
   * [Vers le multimodal : un peu dinteraction vocale](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/interaction_vocale.pdf)
   * [Vers le multimodal ; un peu d'interaction gestuelle](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Interaction_Gestuelle.pdf)
-  * [Handicap et accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite_et_Handicap.pdf)
+  * [TP : Handicap et accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite_et_Handicap.pdf)
 
 ## Quelques liens "à lire"
 * [50 ans d'interaction homme-machine](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur/)
