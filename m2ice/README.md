@@ -10,7 +10,7 @@
   * [bureau d'études/TP](https://github.com/truillet/uftmip/blob/master/m2ice/TP/BE_prototypage_2021b_UT2J.pdf)
 
 ### Séance 3
-  * [Vers le multimodal : un peu dinteraction vocale](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/interaction_vocale.pdf)
+  * [Vers le multimodal : un peu d'interaction vocale](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/interaction_vocale.pdf)
   * [Vers le multimodal ; un peu d'interaction gestuelle](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Interaction_Gestuelle.pdf)
   * [TP : Handicap et accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite_et_Handicap.pdf)
 
