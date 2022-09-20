@@ -2,8 +2,8 @@
 
 ## Introduction à l'interaction homme-machine
 ### Séance 1
-  * [support de cours](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/survol_ihm_3_92.pdf)
-  * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf)
+  * [support de cours](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/survol_ihm_3_92.pdf) (2022)
+  * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf) (2022)
 
 #### Quelques liens et articles "à lire" ou "écouter"
 * [Les cours IHM au Collège de France de Wendy Mackay](https://www.college-de-france.fr/site/wendy-mackay/_agenda.htm)
