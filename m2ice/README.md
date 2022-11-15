@@ -18,17 +18,19 @@
 
 
 ### Séance 2
-  * [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf) 
-  * **Travaux Dirigés**
-   * [Lois Psycho-Physiques]()
-   * [Accessibilité]()
+  * [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf)  (2022)
+  * **Travaux Pratiques**
+    * [Lois Psycho-Physiques](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Lois_PsychoPhysiques.pdf)
+    * [Accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite.pdf)
  
   * **Bureau d'études**
-   * [Support général]()
-   * [Sujet 2022]()
+    * [Support général](https://github.com/truillet/uftmip/blob/master/m2ice/TP/BE_csi_v2.1.pdf)
+    * [Sujet 2022](https://github.com/truillet/uftmip/blob/master/m2ice/TP/sujet_BE_2022.pdf) (2022)
 
-####
-*[KLM calculator](https://syntagm.co.uk/design/klmcalc.shtml)
+#### Quelques liens
+* [KLM calculator](https://syntagm.co.uk/design/klmcalc.shtml)
+* [Code p5JS](https://github.com/truillet/uftmip/blob/master/m2ice/TP/code/accessibilite.zip)
+
 
 ### Séance 3
   * [Vers le multimodal : un peu d'interaction vocale](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/interaction_vocale.pdf)
