@@ -18,23 +18,28 @@
 
 
 ### Séance 2
-  * [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf) et [Travaux Pratiques CSI](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/CSI_v1.9.pdf)
-  * [bureau d'études/TP](https://github.com/truillet/uftmip/blob/master/m2ice/TP/BE_prototypage_2021b_UT2J.pdf)
+  * [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf) 
+  * **Travaux Dirigés**
+   * [Lois Psycho-Physiques]()
+   * [Accessibilité]()
+ 
+  * **Bureau d'études**
+   * [Support général]()
+   * [Sujet 2022]()
 
+####
+*[KLM calculator](https://syntagm.co.uk/design/klmcalc.shtml)
 
 ### Séance 3
   * [Vers le multimodal : un peu d'interaction vocale](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/interaction_vocale.pdf)
-  * [Vers le multimodal ; un peu d'interaction gestuelle](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Interaction_Gestuelle.pdf)
-  * [TP : Handicap et accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite_et_Handicap.pdf)
 
 
 ## [Aller plus loin : Processing.org](https://wwww.processing.org)
 * [Introduction à Processing](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/introduction_processing.pdf)
 * [Processing](https://github.com/truillet/upssitech/blob/master/SRI/1A/Cours/C_processing.org_2.3.pdf)
 
-### Quelques exemples avancés en Processing
+### Quelques exemples de code avancé en Processing
  * [tas de code - des exemples en Processing](https://github.com/truillet/tas_de_code)
  * [PTopCodes : une librairie de réalité augmentée](https://github.com/truillet/TopCodes)
  * [OneDollarRecognizer : de la reconnaissance de gestes](https://github.com/truillet/OneDollarRecognizer)
 
-### [fiches non documentées de Processing.org](https://github.com/truillet/processing/wiki)
