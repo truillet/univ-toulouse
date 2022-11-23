@@ -28,6 +28,8 @@
 * [KLM calculator](https://syntagm.co.uk/design/klmcalc.shtml)
 * [Code p5JS](https://github.com/truillet/uftmip/blob/master/m2ice/TP/code/accessibilite.zip)
 * [<img src="https://img.youtube.com/vi/XPIDK8V93zE/0.jpg" width=250 alt="Voir avec ses mains">]([https://www.youtube.com/watch?v=XPIDK8V93zE](https://www.youtube.com/watch?v=XPIDK8V93zE)) - reportage sur le Laboratoire Commun "Cherchons Pour Voir" (IJA / IRIT) 
+* [Rendre les sites et services numériques accessibles à toutes et à tous](https://accessibilite.numerique.gouv.fr)
+* [Touch Mapper - Create tactile maps easily for any address](https://touch-mapper.org/en)
 
 ### Séance 3
 * **Bureau d'études**
