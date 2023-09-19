@@ -3,7 +3,6 @@
 ## Introduction à l'interaction homme-machine
 ### Séance 1
   * [support de cours](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/survol_ihm_3_94.pdf) (2023)
-  * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf) (2023)
   * [The Laws of Simplicity](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/The_Laws_of_Simplicity.pdf) (2023)
 
 #### Quelques liens et articles "à lire" ou "écouter"
@@ -19,12 +18,15 @@
 * [La psychologie cognitive en capsules](https://cogcaps.univ-tlse2.fr) (UT2J)
 
 ### Séance 2
+ * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf) (2023)
+* [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf)  (2022)
 <!--
 * [Vers le multimodal : un peu d'interaction vocale](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/interaction_vocale.pdf)
-* [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf)  (2022)
+-->
+
 * **Travaux Pratiques**
-  * [Lois Psycho-Physiques](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Lois_PsychoPhysiques.pdf)
-  * [Accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite.pdf)
+  * [Lois Psycho-Physiques](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Lois_PsychoPhysiques.pdf) (2022)
+  * [Accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite.pdf) (2022)
  
 --> 
 #### Quelques liens
@@ -36,8 +38,8 @@
 * ["L'échec colossal" d'Alexa, l'assistant vocal d'Amazon](https://www.01net.com/actualites/lechec-colossal-dalexa-lassistant-vocal-damazon.html)
 
 ### Séance 3
-<!--
 * **Bureau d'études**
+<!--
   * [Support général](https://github.com/truillet/uftmip/blob/master/m2ice/TP/BE_csi_v2.1.pdf)
   * [Sujet 2022](https://github.com/truillet/uftmip/blob/master/m2ice/TP/sujet_BE_2022.pdf) (2022)
 -->
