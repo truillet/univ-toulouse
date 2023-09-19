@@ -43,8 +43,8 @@
 -->
 
 ## [Aller plus loin : Processing.org](https://wwww.processing.org)
-* [Introduction à Processing](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/introduction_processing.pdf)
-* [Processing](https://github.com/truillet/upssitech/blob/master/SRI/1A/Cours/C_processing.org_2.3.pdf)
+* [Introduction à Processing](https://github.com/truillet/upssitech/blob/master/SRI/1A/Cours/introduction_processing.pdf) (2023)
+* [Processing](https://github.com/truillet/upssitech/blob/master/SRI/1A/Cours/C_processing.org_2.4.pdf) (2023)
 
 ### Quelques exemples de code avancé en Processing
  * [tas de code - des exemples en Processing](https://github.com/truillet/tas_de_code)
