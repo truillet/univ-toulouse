@@ -2,8 +2,9 @@
 
 ## Introduction à l'interaction homme-machine
 ### Séance 1
-  * [support de cours](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/survol_ihm_3_92.pdf) (2022)
-  * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf) (2022)
+  * [support de cours](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/survol_ihm_3_94.pdf) (2023)
+  * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf) (2023)
+  * [The Laws of Simplicity](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/The_Laws_of_Simplicity.pdf) (2023)
 
 #### Quelques liens et articles "à lire" ou "écouter"
 * [Les cours IHM au Collège de France de Wendy Mackay](https://www.college-de-france.fr/site/wendy-mackay/_agenda.htm)
@@ -15,7 +16,7 @@
 * [50 ans d'interaction homme-machine](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur/)
 * [Reimagining Participatory Design](http://interactions.acm.org/archive/view/january-february-2019/reimagining-participatory-design), ACM Interactions, January-February 2019, p.26
 * [ACM Interactions Magazine](http://interactions.acm.org)
-
+* [La psychologie cognitive en capsules](https://cogcaps.univ-tlse2.fr) (UT2J)
 
 ### Séance 2
 * [Vers le multimodal : un peu d'interaction vocale](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/interaction_vocale.pdf)
