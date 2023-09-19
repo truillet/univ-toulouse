@@ -19,7 +19,7 @@
 * [La psychologie cognitive en capsules](https://cogcaps.univ-tlse2.fr) (UT2J)
 
 ### Séance 2
-<!!-
+<!--
 * [Vers le multimodal : un peu d'interaction vocale](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/interaction_vocale.pdf)
 * [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf)  (2022)
 * **Travaux Pratiques**
