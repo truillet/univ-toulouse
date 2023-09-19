@@ -20,6 +20,7 @@
 ### Séance 2
  * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf) (2023)
 * [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf)  (2022)
+
 <!--
 * [Vers le multimodal : un peu d'interaction vocale](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/interaction_vocale.pdf)
 -->
