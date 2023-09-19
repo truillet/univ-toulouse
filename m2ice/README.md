@@ -19,12 +19,14 @@
 * [La psychologie cognitive en capsules](https://cogcaps.univ-tlse2.fr) (UT2J)
 
 ### Séance 2
+<!!-
 * [Vers le multimodal : un peu d'interaction vocale](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/interaction_vocale.pdf)
 * [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf)  (2022)
 * **Travaux Pratiques**
   * [Lois Psycho-Physiques](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Lois_PsychoPhysiques.pdf)
   * [Accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite.pdf)
  
+--> 
 #### Quelques liens
 * [KLM calculator](https://syntagm.co.uk/design/klmcalc.shtml)
 * [Code p5JS](https://github.com/truillet/uftmip/blob/master/m2ice/TP/code/accessibilite.zip)
@@ -34,10 +36,11 @@
 * ["L'échec colossal" d'Alexa, l'assistant vocal d'Amazon](https://www.01net.com/actualites/lechec-colossal-dalexa-lassistant-vocal-damazon.html)
 
 ### Séance 3
+<!--
 * **Bureau d'études**
   * [Support général](https://github.com/truillet/uftmip/blob/master/m2ice/TP/BE_csi_v2.1.pdf)
   * [Sujet 2022](https://github.com/truillet/uftmip/blob/master/m2ice/TP/sujet_BE_2022.pdf) (2022)
-
+-->
 
 ## [Aller plus loin : Processing.org](https://wwww.processing.org)
 * [Introduction à Processing](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/introduction_processing.pdf)
