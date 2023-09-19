@@ -27,9 +27,8 @@
 
 * **Travaux Pratiques**
   * [Lois Psycho-Physiques](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Lois_PsychoPhysiques.pdf) (2022)
-  * [Accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite.pdf) (2022)
+  * [Accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite.pdf) (2022) 
  
---> 
 #### Quelques liens
 * [KLM calculator](https://syntagm.co.uk/design/klmcalc.shtml)
 * [Code p5JS](https://github.com/truillet/uftmip/blob/master/m2ice/TP/code/accessibilite.zip)
