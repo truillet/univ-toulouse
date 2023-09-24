@@ -19,12 +19,7 @@
 
 ### Séance 2
  * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf) (2023)
-* [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf)  (2022)
-
-<!--
-* [Vers le multimodal : un peu d'interaction vocale](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/interaction_vocale.pdf)
--->
-
+  
 * **Travaux Pratiques**
   * [Lois Psycho-Physiques](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Lois_PsychoPhysiques.pdf) (2022)
   * [Accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite.pdf) (2022) 
@@ -40,7 +35,8 @@
 ### Séance 3
 * **Bureau d'études**
   * [Jeu du XV](https://github.com/truillet/uftmip/blob/master/m2ice/TP/Jeu_du_XV.pdf)
-  * [Support général](https://github.com/truillet/uftmip/blob/master/m2ice/TP/BE_csi_v2.1.pdf) (2022)
+  * [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf)  (2022)
+  * [Support général](https://github.com/truillet/uftmip/blob/master/m2ice/TP/BE_csi_v2.2.pdf) (2023)
 <!--
   * [Sujet 2022](https://github.com/truillet/uftmip/blob/master/m2ice/TP/sujet_BE_2022.pdf) (2022)
 -->
