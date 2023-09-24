@@ -39,7 +39,7 @@
 
 ### Séance 3
 * **Bureau d'études**
-  * [Jeu du XV]()
+  * [Jeu du XV](https://github.com/truillet/uftmip/blob/master/m2ice/TP/Jeu_du_XV.pdf)
   * [Support général](https://github.com/truillet/uftmip/blob/master/m2ice/TP/BE_csi_v2.1.pdf) (2022)
 <!--
   * [Sujet 2022](https://github.com/truillet/uftmip/blob/master/m2ice/TP/sujet_BE_2022.pdf) (2022)
