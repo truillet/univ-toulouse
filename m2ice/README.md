@@ -6,7 +6,7 @@
   * [The Laws of Simplicity](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/The_Laws_of_Simplicity.pdf) (2023)
 
 #### Quelques liens et articles "à lire" ou "écouter"
-* [Les cours IHM au Collège de France de Wendy Mackay](https://www.college-de-france.fr/site/wendy-mackay/_agenda.htm)
+* [Les cours IHM au Collège de France de Wendy Mackay]([https://www.college-de-france.fr/site/wendy-mackay/_agenda.htm](https://www.college-de-france.fr/fr/actualites/parution-de-la-lecon-inaugurale-de-la-pr-wendy-e-mackay))
 * [The Augmentation of Douglas Engelbart](https://www.youtube.com/watch?v=_7ZtISeGyCY)
 
 [<img src="https://img.youtube.com/vi/_7ZtISeGyCY/0.jpg" width=250 alt="Put That There">](https://www.youtube.com/watch?v=_7ZtISeGyCY)
