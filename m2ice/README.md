@@ -2,7 +2,7 @@
 
 ## Introduction à l'interaction homme-machine
 ### Séance 1
-  * [support de cours](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/survol_ihm_3_94.pdf) (2023)
+  * [support de cours](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/survol_ihm_3_95.pdf) (2024)
   * [The Laws of Simplicity](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/The_Laws_of_Simplicity.pdf) (2023)
 
 #### Quelques liens et articles "à lire" ou "écouter"
