@@ -18,11 +18,11 @@
 * [La psychologie cognitive en capsules](https://cogcaps.univ-tlse2.fr) (UT2J)
 
 ### Séance 2
- * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf) (2023)
+ * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf) (2024)
   
 * **Travaux Pratiques**
   * [Lois Psycho-Physiques](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Lois_PsychoPhysiques.pdf) (2022)
-  * [Accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite.pdf) (2022) 
+  * [Accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite.pdf) (2024) 
  
 #### Quelques liens
 * [KLM calculator](https://syntagm.co.uk/design/klmcalc.shtml)
