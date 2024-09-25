@@ -34,10 +34,9 @@
 
 ### Séance 3
 * **Bureau d'études**
-  * [Jeu du XV](https://github.com/truillet/uftmip/blob/master/m2ice/TP/Jeu_du_XV.pdf)
-  * [conception de systèmes interactifs & Prototypage](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Conception_Prototypage.pdf)  (2022)
-  * [Support général](https://github.com/truillet/uftmip/blob/master/m2ice/TP/BE_csi_v2.2.pdf) (2023)
-  * [Sujet Bureau d'Etudes 2023](https://github.com/truillet/uftmip/blob/master/m2ice/TP/sujet_BE_2023.pdf) (2023)
+  * [Jeu du XV](https://github.com/truillet/uftmip/blob/master/m2ice/TP/Jeu_du_XV.pdf) (2024)
+  * [Conception de Systèmes Interactifs - "Participatory Design"](https://github.com/truillet/uftmip/blob/master/m2ice/TP/BE_csi_v2.3.pdf) (2024)
+  * [Prototypage et Sujet BE 2024](https://github.com/truillet/univ-toulouse/blob/master/m2ice/Cours/BS_prototypage.pdf) (2024)
   
 
 ## [Aller plus loin : Processing.org](https://wwww.processing.org)
