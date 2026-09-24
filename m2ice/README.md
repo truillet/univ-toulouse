@@ -25,7 +25,7 @@
  * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf) (2024)
   
 * **Travaux Pratiques**
-  * [Accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite.pdf) (2024) 
+  * [Accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite.pdf) (2026) 
 
 * **Bureau d'études**
   * [Jeu du XV](https://github.com/truillet/uftmip/blob/master/m2ice/TP/Jeu_du_XV.pdf) (2024)
