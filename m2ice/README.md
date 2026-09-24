@@ -22,14 +22,14 @@
 * [La psychologie cognitive en capsules](https://cogcaps.univ-tlse2.fr) (UT2J)
 
 ### Séance 2
- * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf) (2024)
+ * [Handicap : quelques éléments](https://github.com/truillet/uftmip/blob/master/m2ice/Cours/Handicap.pdf) (2026)
   
 * **Travaux Pratiques**
   * [Accessibilité](https://github.com/truillet/uftmip/blob/master/m2ice/TP/TP_Accessibilite.pdf) (2026) 
 
 * **Bureau d'études**
   * [Jeu du XV](https://github.com/truillet/uftmip/blob/master/m2ice/TP/Jeu_du_XV.pdf) (2024)
-  * [Prototypage et Sujet BE 2024](https://github.com/truillet/univ-toulouse/blob/master/m2ice/Cours/BS_prototypage.pdf) (2024)
+  * [Prototypage et Sujet BE 2024](https://github.com/truillet/univ-toulouse/blob/master/m2ice/Cours/BS_prototypage.pdf) (2026)
  
 #### Quelques liens
 * [<img src="https://img.youtube.com/vi/XPIDK8V93zE/0.jpg" width=250 alt="Voir avec ses mains">]([https://www.youtube.com/watch?v=XPIDK8V93zE](https://www.youtube.com/watch?v=XPIDK8V93zE)) - reportage sur le Laboratoire Commun "Cherchons Pour Voir" (IJA / IRIT) 
